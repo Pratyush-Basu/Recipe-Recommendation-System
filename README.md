@@ -35,7 +35,7 @@ Jupyter Notebook
 
 #🧩 Project Structure
 
-recipes_suggestion.ipynb     # Main Notebook containing all code and logic
+recipes_suggestion_Github.ipynb     # Main Notebook containing all code and logic
 food_recipes.csv                          # Dataset of recipes (expected format)
 ⚙️ How It Works
 Data Cleaning: Preprocess the recipes dataset to handle missing values and prepare fields.
